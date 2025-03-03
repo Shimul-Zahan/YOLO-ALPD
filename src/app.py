@@ -13,7 +13,6 @@ from logger import logging
 logging.basicConfig(level=logging.INFO)
 
 try:
-    5/0
     logging.info("Logging has started!!!") 
     print("Hello World")
 except Exception as ex:
