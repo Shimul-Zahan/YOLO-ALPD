@@ -1,0 +1,10 @@
+1. Train Images
+2. Label Image
+3. Data Preprocessing
+4. Train DL Model
+5. Model Artifacts
+6. Make Object Detection (ROI)
+7. OCR
+8. Model Pipeline
+9. Web Application
+10. Deploy The Project
